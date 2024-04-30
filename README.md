@@ -1,12 +1,12 @@
-![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+![MasterHead](https://raw.githubusercontent.com/KShukhrat/KShukhrat/main/assets/header_gif.gif)
  <h1>
   Hey there, I'm Beniksha Thapa
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://images.search.yahoo.com/search/images;_ylt=Awr93fOFiTBmyEwZ_MqJzbkF;_ylu=c2xrA3RleHQEaXQDQWxzb1RyeV9OBHNlYwNyZWwEcG9zAzY-?p=Anime+Coding+GIF&fr2=p%3As%2Cv%3Ai%2Cm%3Ars-top%2Cct%3Abing%2Crgn%3Atop%2Cpos%3A6&fr=mcafee&type=E210US714G0#id=8&iurl=https%3A%2F%2Fhackernoon.com%2Fimages%2Ff2px36fy.gif&action=click" width="30px"/>
   </h1>
 user-images.githubusercontent.com
 <h1 align="center">Hi 👋, I'm Beniksha Thapa</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/104b0b4fc15842ae787815aace169b45e886df84676aae6430ab731ca0cbbb73/68747470733a2f2f63646e622e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3033372f3635302f3836352f6f726967696e616c2f6161726f6e2d6a2d636861726c69652d6261636b67726f756e642d6769662e6769663f31363230393333303735">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif">
 camo.githubusercontent.com
 
 - 🔭 I’m currently working on **LawFirm**
